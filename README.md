@@ -18,6 +18,13 @@ SQL
 
 I have a passion for self-learning and development, I'm currently looking to learn AWS and Python next. I love the outdoors, travel and adventure. I enjoy a variety of sports, boxing, football, tennis and golf are my favourites to do.
 
+- 🔭 I’m currently working on ... a library management system in JAVA!
+- 🌱 I’m currently learning ... Python!
+- 💬 Ask me about ... My developer journey and work history.
+- 📫 How to reach me: ... https://www.linkedin.com/in/andrew-doherty-054781a1/
+- 😄 Pronouns: ... He/Him
+- ⚡ Fun fact: ... I make reallyyyy good coffee ☕
+
 
 <!--
 **andrewdohertyy/andrewdohertyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
