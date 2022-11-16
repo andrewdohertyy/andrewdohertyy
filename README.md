@@ -8,13 +8,13 @@ I enjoy continuous learning and engaging with stakeholders at every level.
 
 Some of the languages and frameworks i have worked with are:
 
-HTML
-CSS/SCSS
-JavaScript
-React JS
-Java
-Spring
-SQL
+HTML,
+CSS/SCSS,
+JavaScript,
+React JS,
+Java,
+Spring,
+& SQL.
 
 I have a passion for self-learning and development, I'm currently looking to learn AWS and Python next. I love the outdoors, travel and adventure. I enjoy a variety of sports, boxing, football, tennis and golf are my favourites to do.
 
