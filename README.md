@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-I'm Andrew Doherty, a junior developer based in Manchester. I'm a proactive technology professional having just completed a full-stack development course. I have several years of leadership and mentoring experience.
+I'm Andrew Doherty, a junior developer based in Manchester.
 
-I am an ambitious individual with a strong work ethic and a desire to improve myself. I have a huge passion for tech, learning and development, and helping teams succeed.
-
-I enjoy continuous learning and engaging with stakeholders at every level.
+I am an ambitious individual with a strong work ethic and a desire to improve myself. I have a huge passion for tech, learning and development, and helping teams succeed. I enjoy continuous learning and engaging with stakeholders at every level.
 
 Some of the languages and frameworks i have worked with are:
 
