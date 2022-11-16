@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I'm Andrew Doherty, a Junior Software Developer based in Manchester, UK.
+I'm Andrew Doherty, a Junior Software Developer based in Manchester, UK. 🏡
 
 I am an ambitious individual with a strong work ethic and a desire to improve myself. I have a huge passion for tech, learning and development, and helping teams succeed. I enjoy continuous learning and engaging with stakeholders at every level.
 
 Some of the languages and frameworks i have worked with are:
 
-HTML,
+HTML,  
 CSS/SCSS,
 JavaScript,
 React JS,
