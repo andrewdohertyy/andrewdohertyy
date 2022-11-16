@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Andrew Doherty, a junior developer based in Manchester.
+I'm Andrew Doherty, a Junior Software Developer based in Manchester, UK.
 
 I am an ambitious individual with a strong work ethic and a desire to improve myself. I have a huge passion for tech, learning and development, and helping teams succeed. I enjoy continuous learning and engaging with stakeholders at every level.
 
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ... Python!
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ... My developer journey and work history.
+- 💬 Ask me about ... My developer journey, work history and my favourite languages.
 - 📫 How to reach me: ... https://www.linkedin.com/in/andrew-doherty-054781a1/
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I make reallyyyy good coffee ☕️
